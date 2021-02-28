@@ -170,8 +170,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c518d635b7efd314aae9a7757e521513, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  envObjects: {fileID: 3263309332058077798}
-  tree: {fileID: 6847897592993898270, guid: 5945a48548335d142a396fc6390c5e86, type: 3}
+  envObjectsParent: {fileID: 3263309332058077798}
 --- !u!1 &2648023958914315568
 GameObject:
   m_ObjectHideFlags: 0
